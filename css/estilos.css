@@ -1,4 +1,19 @@
-.tarjeta {
-    border: 1px solid #cbd5e1;
+.marco {
+    border: 2px solid #ffa0ea;
     padding: 1rem;
+  }
+
+  .titulo {
+    color: rgb(168, 8, 134);
+  text-align: left
+  }
+  
+  .titprin {
+    color: rgb(131, 7, 104);
+  text-align: left
+  }
+
+  .monospace {
+    font-family: monospace;
+  font-size: 20px;
   }
